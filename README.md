@@ -28,10 +28,18 @@ Untuk menginstal proyek ini, ikuti langkah-langkah berikut:
    ```bash
    git clone https://github.com/username/repository.git
 2. Masuk ke direktori proyek:
+
+```bash
    cd repository
-3. Instal dependensi menggunakan Composer:
-   composer install
-4. Jalankan migrasi database:
-   php artisan migrate
-5. Jalankan server lokal:
+4. Instal dependensi menggunakan Composer:
+
+```bash
+composer install
+5. Jalankan migrasi database:
+
+```bash
+  php artisan migrate
+6. Jalankan server lokal:
+
+```bash
  php artisan serve
