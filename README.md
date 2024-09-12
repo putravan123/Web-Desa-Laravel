@@ -2,13 +2,15 @@
 
 Deskripsi singkat tentang proyek.
 
+---
+
 ## Dokumentasi
 
-- [Instalasi](docs/installation.md)
-- [Konfigurasi](docs/configuration.md)
-- [Routing](docs/routing.md)
-- [Database](docs/database.md)
-- [API Reference](docs/api.md)
+- [Instalasi](#instalasi)
+- [Konfigurasi](#konfigurasi)
+- [Routing](#routing)
+- [Database](#database)
+- [API Reference](#api-reference)
 
 ---
 
