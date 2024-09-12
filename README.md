@@ -30,3 +30,11 @@ Untuk menginstal proyek ini, ikuti langkah-langkah berikut:
 
    ```bash
    git clone https://github.com/username/repository.git
+   cd repository
+   composer install
+   cp .env.example .env
+   php artisan migrate
+   php artisan serve
+
+
+
