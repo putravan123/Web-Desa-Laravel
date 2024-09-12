@@ -31,15 +31,15 @@ Untuk menginstal proyek ini, ikuti langkah-langkah berikut:
 
 ```bash
    cd repository
-4. Instal dependensi menggunakan Composer:
+3. Instal dependensi menggunakan Composer:
 
 ```bash
 composer install
-5. Jalankan migrasi database:
+4. Jalankan migrasi database:
 
 ```bash
   php artisan migrate
-6. Jalankan server lokal:
+5. Jalankan server lokal:
 
 ```bash
  php artisan serve
