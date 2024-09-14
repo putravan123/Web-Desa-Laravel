@@ -1,40 +1,28 @@
-# Nama Proyek
+# 1. Prasyarat #
+Pastikan perangkat telah memenuhi prasyarat berikut sebelum menginstal Laravel:
 
-Deskripsi singkat tentang proyek.
+PHP versi 8.x atau lebih baru.
+Composer (Dependency Manager untuk PHP).
+MySQL atau database lain yang didukung Laravel.
+Node.js dan NPM (untuk mengelola dependensi front-end).
+Git (jika menggunakan Git sebagai version control).
 
----
+# 1. Prasyarat #
+Pastikan perangkat telah memenuhi prasyarat berikut sebelum menginstal Laravel:
 
-## Dokumentasi
+PHP versi 8.x atau lebih baru.
+Composer (Dependency Manager untuk PHP).
+MySQL atau database lain yang didukung Laravel.
+Node.js dan NPM (untuk mengelola dependensi front-end).
+Git (jika menggunakan Git sebagai version control).
 
-- [Instalasi](#instalasi)
-- [Konfigurasi](#konfigurasi)
-- [Routing](#routing)
-- [Database](#database)
-- [API Reference](#api-reference)
+# 2. Langkah Instalasi Laravel #
 
----
-
-# Instalasi
-
-Untuk menginstal proyek ini, ikuti langkah-langkah berikut:
-
-## Persyaratan
-
-- PHP versi 7.4 atau lebih baru
-- Composer
-- Database (MySQL, PostgreSQL, dll.)
-
-## Langkah Instalasi
-
-1. **Clone repositori ini:**
-
-   ```bash
-   git clone https://github.com/username/repository.git
-   cd repository
-   composer install
-   cp .env.example .env
-   php artisan migrate
-   php artisan serve
-
-
-
+## Langkah 1: Clone Repository ##
+``
+git clone <url-repository-git>
+``
+## Langkah 2: Pindah ke Direktori Proyek ##
+``
+cd nama-project
+``
