@@ -5,7 +5,6 @@
 - Composer: Dependency Manager untuk PHP.
 - MySQL/SQLite: Untuk database.
 - Node.js & NPM: Untuk pengelolaan dependensi front-end.
-- Git: Jika menggunakan Git untuk version control.
 
 # 2. Langkah Instalasi Laravel 
 
