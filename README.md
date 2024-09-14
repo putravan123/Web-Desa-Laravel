@@ -16,6 +16,10 @@ git clone https://github.com/putravan123/Web-Desa-Laravel.git
 ```
 cd Web-Desa-Laravel
 ```
+##### Lalu masuk ke Visual Studio Code
+```
+code .
+```
 ### Langkah 3: Instal Dependensi Backend
 ```
 composer install
