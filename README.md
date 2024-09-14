@@ -45,7 +45,7 @@ cp .env.example .env
 
 ### Langkah 6: Migrasi Database
 
-- Buat Databases di xampp terlebih dahulu nama Databases nya sesuai yang DB_DATABASES di .env Setelah Membuat Langusng Migrate :
+- Buat Databases di xampp terlebih dahulu nama Databases nya sesuai yang DB_DATABASES di .env Setelah Membuat langsung migrate :
 ```
 php artisan migrate
 ```
