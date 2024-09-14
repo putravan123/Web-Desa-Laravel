@@ -3,7 +3,7 @@
 
 - PHP: Versi 8.1 atau lebih baru.
 - Composer: Dependency Manager untuk PHP.
-- MySQL/PostgreSQL/SQLite: Untuk database.
+- MySQL/SQLite: Untuk database.
 - Node.js & NPM: Untuk pengelolaan dependensi front-end.
 - Git: Jika menggunakan Git untuk version control.
 
