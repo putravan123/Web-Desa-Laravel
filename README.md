@@ -19,10 +19,10 @@ Git (jika menggunakan Git sebagai version control).
 # 2. Langkah Instalasi Laravel #
 
 ## Langkah 1: Clone Repository ##
-``
+```
 git clone <url-repository-git>
-``
+```
 ## Langkah 2: Pindah ke Direktori Proyek ##
-``
+```
 cd nama-project
-``
+```
